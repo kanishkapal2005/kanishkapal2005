@@ -21,7 +21,7 @@
 
 | 🚩         | Milestone / Fact                      |
 |------------|---------------------------------------|
-| 🚀         | 1+ Major Fullstack Projects           |
+| 🚀         | 1+ Major Frontend Projects           |
 | 🌍         | Projects used by 50+ users            |
 
 ---
@@ -33,30 +33,30 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,js" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,html,css" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
-### 🔧 Backend & AI
-<p align="left">
+
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img src="https://img.shields.io/badge/Gemini-byGoogle-black?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</p> -->
 
-### 🗃️ Databases
-<p align="left">
+
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+</p> -->
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
 ### ⚙️ Developer Tools
@@ -87,8 +87,8 @@
 
 ## 📚 Learning Roadmap – 2025
 
-- ✅ Mastered foundational `LLMs`
-- 🔍 Deep dive: `Next.js & DSA` & Edge Functions
+- ✅ Mastered foundational `MERN STACK`
+- 🔍 Deep dive: `React.js & Machine Learning` & Edge Functions
 - 🔁 Launch new SaaS side project
 - 👩‍💻 Major AI open source contributions
 - 📈 Public speaking on frontend & AI
@@ -116,8 +116,8 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:akksnehapal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kanishka-pal-288951364/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kksnehapal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kanishkapal2005/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
 
