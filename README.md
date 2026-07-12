@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:4f46e5,100:0ea5e9&height=250&section=header&text=Kanishka%20Pal&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=⚡%20Full-Stack%20Dev%20·%20🤖%20AI%20Explorer%20·%20🧠%20ML%20Enthusiast&descAlignY=62&descColor=e2d9f3&animation=scaleIn&stroke=7c3aed&strokeWidth=2" />
+<img width="100%" src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1783832435/ChatGPT_Image_Jul_12_2026_10_29_14_AM_b6xeq9.png" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=🚀+Building+Full-Stack+MERN+Applications;🤖+Exploring+AI+%26+Machine+Learning;🧠+Crafting+RAG+%26+LLM+Pipelines;🏆+National-Level+Award+Winner;☕+Turning+chai+into+working+products!)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
 <p>
 <img src="https://komarev.com/ghpvc/?username=kanishkapal2005&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/kanishkapal2005?label=🤝+Followers&style=for-the-badge&color=4f46e5&labelColor=1e1b4b" />
+<img src="https://img.shields.io/github/followers/kanishkapal2005?label=Followers&style=for-the-badge&color=4f46e5&labelColor=1e1b4b" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-MERN+%7C+AI+%7C+ML-0ea5e9?style=for-the-badge&labelColor=0c1a2e" />
 &nbsp;
@@ -26,62 +26,104 @@
 <!-- About Me -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> &nbsp;whoami
+<h1 align="center">
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+ Hello, I'm Kanishka 👋
+</h1>
 
-```typescript
-const kanishka: Developer = {
-  name       : "Kanishka Pal",
-  location   : "Ghaziabad, Uttar Pradesh 🇮🇳",
-  college    : "Hi-Tech Institute of Engineering & Technology",
-  degree     : "B.Tech CSE — 3rd Year (2024–2028)",
-  
-  currentRole: "AI & ML Intern @ Coding Blocks School of Technology",
-  
-  superpower : "Transforming caffeine ☕ + late nights 🌙 into production-ready products",
-  
-  techPhilosophy: "Ship fast, learn faster, break things (in dev) 🚀",
-  
-  nowBuilding: [
-    "🌉 CampusBridge — Smart Campus Management System",
-    "🏥 Healthcare Management System (MERN)",
-    "🤖 RAG-Powered Document Chatbot",
-  ],
-  
-  askMeAbout : ["React.js", "Node.js", "MongoDB", "Python", "LLM Integration"],
-  funFact    : "I once fixed a production bug at 3AM and considered it a win 🎯",
-};
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Real+World+Projects;Learning+LLMs+%26+RAG;Turning+Ideas+into+Products">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+
+</p>
+
+---
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
+
+</td>
+
+<td width="52%" valign="top">
+
+```yaml
+Name        :: Kanishka Pal
+
+Location    :: India 🇮🇳
+
+Role        :: Full Stack Developer
+
+Mission     :: Building impactful AI-powered applications
+
+Currently   :: AI & ML Intern @ Coding Blocks
+
+Status      :: Learning. Building. Growing.
+
+Fuel        :: Coffee ☕ + Curiosity 💜
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</td>
+
+</tr>
+</table>
 
 ---
 
-<!-- Animated Stats Cards -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> &nbsp;GitHub Stats
-
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kanishkapal2005&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d0d1a" alt="Kanishka's GitHub Stats" />
+## 🚀 Current Mission
+
+</div>
+
+<p align="center">
+
+🌉 CampusBridge • 🏥 Healthcare Management System • 🤖 ProjectPilot AI • 📄 RAG Document Chatbot
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=900&lines=Always+Learning...;Always+Building...;Always+Improving...;Thanks+for+visiting+my+profile"/>
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+<img
+  width="49%"
+  height="195px"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanishkapal2005&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d0d1a"
+  alt="Kanishka's GitHub Stats"
+/>
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkapal2005&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" />
 
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkapal2005&layout=donut&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d0d1a&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanishkapal2005&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanishkapal2005&layout=compact&theme=tokyonight&hide_border=true" />
 &nbsp;&nbsp;
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkapal2005&bg_color=0d0d1a&color=a78bfa&line=4f46e5&point=38bdf8&area=true&hide_border=true" alt="Activity Graph"/>
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkapal2005&theme=github-compact" width="96%">
+</p>
 
 </div>
-
----
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanishkapal2005&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-
-</div>
-
----
 
 <!-- Experience Timeline -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
