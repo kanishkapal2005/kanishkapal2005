@@ -125,40 +125,191 @@ Fuel        :: Coffee ☕ + Curiosity 💜
 
 </div>
 
-<!-- Experience Timeline -->
+<!--==================== EXPERIENCE ====================-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34px"> &nbsp;Experience
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34">
+  Professional Experience
+</h2>
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Building+Real+World+Products...;AI+%7C+Cloud+%7C+Full+Stack+Developer...;Learning+Never+Stops"/>
+</p>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
 
- 🟣  AI & ML Intern                               Jun 2026 – Present
-     Coding Blocks School of Technology (Remote)
-     ├─ Python Libraries · Data Analysis
-     ├─ Machine Learning Projects
-     └─ Real-world AI Development Concepts
+<img src="https://img.shields.io/badge/4-Internships-A855F7?style=for-the-badge"/>
 
- 🔵  AI & Cloud Intern                            May 2026 – Jun 2026
-     Edunet Foundation (Remote)
-     ├─ LangChain · IBM Watsonx · RAG
-     ├─ Vector Databases · LLM Application Dev
-     └─ Python-driven AI Solutions
+<img src="https://img.shields.io/badge/2-AI%20%26%20ML-7C3AED?style=for-the-badge"/>
 
- 🟢  Frontend Developer                           Jan 2026 – Feb 2026
-     CODE-A-NOVA, Ghaziabad
-     ├─ React.js · Tailwind CSS · Getform.io
-     ├─ Healthcare Management System
-     └─ Modern Frontend Development Practices
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-38BDF8?style=for-the-badge"/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-10B981?style=for-the-badge"/>
 
-</div>
+</p>
 
----
+<table align="center" width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 AI & ML Intern</h3>
+
+<p align="center">
+
+<b>Coding Blocks School of Technology</b><br>
+
+🌐 Remote
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Current-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Jun%202026-Present-A855F7?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square"/>
+
+</p>
+
+- ✅ Built ML Projects
+- ✅ Data Analysis
+- ✅ Model Evaluation
+- ✅ AI Development
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI & ML Intern</h3>
+
+<p align="center">
+
+<b>Mirai Schools of Technology</b><br>
+
+🌐 Remote
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Current-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Jul%202026-Present-A855F7?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square"/>
+
+</p>
+
+- 🌱 Recently Joined
+- 🚀 Working on AI Projects
+- 📚 Learning Industry Practices
+- 🤝 Collaborating with Team
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ AI & Cloud Intern</h3>
+
+<p align="center">
+
+<b>Edunet Foundation</b><br>
+
+🌐 Remote
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Completed-0EA5E9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/May-Jun%202026-0EA5E9?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/IBM%20Watsonx-1261FE?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LLM-orange?style=flat-square"/>
+
+</p>
+
+- ✅ Built RAG Applications
+- ✅ LLM Integration
+- ✅ Vector Databases
+- ✅ AI Cloud Solutions
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Frontend Developer</h3>
+
+<p align="center">
+
+<b>CODE-A-NOVA</b><br>
+
+📍 Ghaziabad
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Completed-0EA5E9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Jan-Feb%202026-0EA5E9?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Getform.io-FF6B35?style=flat-square"/>
+
+</p>
+
+- ✅ Healthcare Management System
+- ✅ Responsive UI
+- ✅ API Integration
+- ✅ React Components
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
 
 <!-- Achievements -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -177,8 +328,6 @@ Fuel        :: Coffee ☕ + Curiosity 💜
 <div align="center">
 <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="120px" />
 </div>
-
----
 
 <!-- Tech Stack -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
