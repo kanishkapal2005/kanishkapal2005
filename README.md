@@ -28,7 +28,7 @@
 
 <h1 align="center">
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
- Hello, I'm Kanishka 👋
+ Hello, I'm Kanishka Pal 👋
 </h1>
 
 <p align="center">
