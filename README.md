@@ -1,7 +1,7 @@
-<!-- <div align="center">
+<div align="center">
 
 <!-- Animated Header -->
-<!-- <img width="100%" src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1783832435/ChatGPT_Image_Jul_12_2026_10_29_14_AM_b6xeq9.png" /> -->
+<img width="100%" src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1783832435/ChatGPT_Image_Jul_12_2026_10_29_14_AM_b6xeq9.png" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=🚀+Building+Full-Stack+MERN+Applications;🤖+Exploring+AI+%26+Machine+Learning;🧠+Crafting+RAG+%26+LLM+Pipelines;🏆+National-Level+Award+Winner;☕+Turning+chai+into+working+products!)](https://git.io/typing-svg)
